@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Marlon",
+        "image": "img\/marlon.jpg",
+        "description": "Due to his silent nature, he has earned the moniker of \"The Ninja\".",
+        "interest1": "Music (Hugot songs)",
+        "interest2": "Computer Programming",
+        "interest3": "Fine wines",
+        "fee": "400"
+    },
+    {
+        "name": "Billy",
+        "image": "img\/billy.jpg",
+        "description": "Billy is an aspiring web programmer and a big fan of self-improvement",
+        "interest1": "Tsing Tao Better",
+        "interest2": "Computer Programming",
+        "interest3": "Reading books",
+        "fee": "400"
+    },
+    {
+        "name": "Debbie",
+        "image": "img\/debbie.jpg",
+        "description": "Debbie is the boss. <br> She is feared by both Tuitt students and staff alike.",
+        "interest1": "Arts and Literature",
+        "interest2": "Tomatoes",
+        "interest3": "Bullying people",
+        "fee": "400"
+    },
+    {
+        "name": "Peejay",
+        "image": "img\/peejay.jpg",
+        "description": "Looks like that guy from Sponge Cola",
+        "interest1": "Swimming",
+        "interest2": "Women",
+        "interest3": "Programming",
+        "fee": "800"
+    },
+    {
+        "name": "Cielo",
+        "image": "img\/cielo.jpg",
+        "description": "Master of statistics. Low-key bossing.",
+        "interest1": "Mathematics",
+        "interest2": "Programming",
+        "interest3": "Healthy food",
+        "fee": "450"
+    },
+    {
+        "name": "Felizardo",
+        "image": "img\/felizardo.jpg",
+        "description": "The John Cena of dismissal time. Sometimes bald.",
+        "interest1": "Watching basketball",
+        "interest2": "Swimming",
+        "interest3": "Jogging",
+        "fee": "1"
+    },
+    {
+        "name": "Angeli",
+        "image": "img\/angeli.jpg",
+        "description": "Super quiet and very secretive. Low-key moody. ",
+        "interest1": "Style and Design",
+        "interest2": "Japanese Food",
+        "interest3": "Movies",
+        "fee": "500"
+    },
+    {
+        "name": "Gerard",
+        "image": "img\/gerard.jpg",
+        "description": "Owner of Tok-Anghang Site. Part vietnamese.",
+        "interest1": "Healthy Living",
+        "interest2": "Playing Splendor!",
+        "interest3": "Messing with Regine",
+        "fee": "500"
+    },
+    {
+        "name": "Regine",
+        "image": "img\/regine.jpg",
+        "description": "hello",
+        "interest1": "surfing",
+        "interest2": "feminism",
+        "interest3": "revenge against gerard",
+        "fee": "500"
+    }
+]

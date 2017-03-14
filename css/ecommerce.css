@@ -1,0 +1,147 @@
+
+h1,h2 {
+	font-family: 'Lobster', cursive;
+	color: #cf1717;
+}
+p {
+	font-family: 'Nunito', sans-serif;
+}
+.large-font {
+	font-size: large;
+}
+.margin-bottom {
+	margin-bottom: 10px;
+}
+div.logo {
+	/*border: 1px solid;*/
+	margin: 0;
+}
+div.logo h1 {
+	display: inline;
+	color: #F9BE02;
+	margin-left: 10%;
+}
+div.logo img {
+	width: 150px;
+}
+nav.bg-coral {
+	background-color: #cf1717;
+	margin-bottom: 10px;
+}
+nav.bg-coral div#myNavbar ul.nav li {
+	padding: 0 15px;
+}
+nav.bg-coral div#myNavbar ul.nav li a:hover {
+	color: black;
+}
+nav.bg-coral div#myNavbar ul.nav li a {
+	color: 	#ffffff;
+}
+nav.bg-coral div#myNavbar ul.navbar-right li.dropdown ul.dropdown-menu a{
+	padding-left: 0;
+	color: black;
+}
+.banner {
+	/*border: 1px solid;*/
+	height: 500px;
+	background: url(../img/bg-friends.jpg) no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-radius: 15px;
+}
+main div.banner div.col-md-4 {
+	margin-top: 10%;
+	height: 50%;
+	background-color: white;
+	/*border: solid 1px;*/
+}
+main div.banner div.col-md-4 a{
+	color: blue;
+}
+main div.about {
+	/*border: 1px solid;*/
+	margin: 15px 0;
+}
+main div.about div.col-md-4 {
+	/*border: 1px solid;*/
+	background: url(../img/friendly-face.jpg);
+	background-position: right;
+	background-size: cover;
+	height: 333px;
+	border-radius: 15px;
+}
+main div.items {
+	/*border: 1px solid;*/
+	margin: 15px 0;
+}
+main div.items h3{
+	margin: 0;
+	margin-bottom: 10px;
+	font-family: 'Nunito', sans-serif;
+}
+main div.items img.item-img {
+	height: 100px;
+	width: 100px;
+	/*border: 1px solid;*/
+	border-radius: 50%;
+}
+.item h4 {
+    font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+}
+main div.items div.row {
+	padding: 10px;
+}
+main div.items div.row div.item-selection {
+	border: 1px solid;
+	min-height: 320px;
+}
+.carousel-control.right, .carousel-control.left {
+    background-image: none;
+    color: #f4511e;
+}
+
+main div.sign-up {
+	/*border: 1px solid;*/
+	margin: 15px 0;
+}
+main div.banner div.col-md-4 a {
+	color: #39A6BE;
+}
+footer {
+	/*border: 1px solid;*/
+	margin: 0;
+	background-color: #cf1717;
+	font-family: 'Nunito', sans-serif;
+	border-radius: 15px;
+
+}
+footer.container-fluid div.row h3,span{
+	color: #ffffff;
+}
+footer.container-fluid div.row h3 {
+	margin-top: 10px;
+	font-family: 'Lobster', cursive;
+}
+footer.container-fluid div.row h4{
+	color: #ffffff;
+}
+footer div.row ul li {
+	list-style: none;
+	/*text-align: center;*/
+	padding: 5px;
+}
+footer div.row ul li a {
+	color: 	#ffffff;
+}
+footer div.footer-btm,a {
+	color: 	#ffffff;
+}
+footer div.footer-btm p {
+	text-align: right;
+	margin-bottom: 0;
+	font-size: .8em;
+}
